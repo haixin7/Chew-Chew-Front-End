@@ -1,5 +1,5 @@
 # Chew-Chew Front-End  
-## An Online Food Ordering System
+## An Full-stack Online Food Ordering System
 
 ● Implemented Rest API via Spring MVC including registration, menu searching, and ordering, checkout, etc.
 ● Utilized Hibernate to access and operate the data storage (menu, restaurants, etc.)
